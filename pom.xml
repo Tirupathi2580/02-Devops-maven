@@ -23,7 +23,7 @@
         <!-- Spring Boot Test starter -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
+            <artifactId>spring-boot-context-test</artifactId>
             <scope>test</scope>
         </dependency>
 
