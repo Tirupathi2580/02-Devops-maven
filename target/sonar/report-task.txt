@@ -1,0 +1,6 @@
+projectKey=com.example:my-standalone-app
+serverUrl=http://13.235.103.239:9000
+serverVersion=25.10.0.114319
+dashboardUrl=http://13.235.103.239:9000/dashboard?id=com.example%3Amy-standalone-app
+ceTaskId=33524b08-891d-421c-87c6-bb9433d0acc6
+ceTaskUrl=http://13.235.103.239:9000/api/ce/task?id=33524b08-891d-421c-87c6-bb9433d0acc6
